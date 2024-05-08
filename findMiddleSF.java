@@ -25,7 +25,7 @@
 
  *****************************************************************/
 
- public class Solution
+ public class findMiddleSF
  {
      public static Node findMiddle(Node head)
      {
